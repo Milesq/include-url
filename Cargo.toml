@@ -2,7 +2,9 @@
 name = "include-url"
 version = "1.0.0"
 authors = ["Milesq <wmilosz88@gmail.com>"]
+description = "import code from url"
 edition = "2018"
+license = "MIT"
 
 [lib]
 proc-macro = true
